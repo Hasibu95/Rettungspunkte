@@ -1,0 +1,56 @@
+[
+    {
+        "nummer": "7231",
+        "name": "Langenhain Ortseingang",
+        "lat": 50.902567,
+        "lon": 10.524167
+    },
+    {
+        "nummer": "2723",
+        "name": "Waldkreuzung Tränksgrund",
+        "lat": 50.915343,
+        "lon": 10.500476
+    },
+    {
+        "nummer": "2726",
+        "name": "Sülzenbach",
+        "lat": 50.919941,
+        "lon": 10.520921
+    },
+    {
+        "nummer": "2729",
+        "name": "Kesselgrubenteiche Waltershausen",
+        "lat": 50.884761,
+        "lon": 10.53975
+    },
+    {
+        "nummer": "2725",
+        "name": "An der Autobahn",
+        "lat": 50.929013,
+        "lon": 10.505454
+    },
+    {
+        "nummer": "2732",
+        "name": "Hexenrasen",
+        "lat": 50.881606,
+        "lon": 10.556373
+    },
+    {
+        "nummer": "2733",
+        "name": "Friedrichrode zur Gottlobwiese",
+        "lat": 50.852188,
+        "lon": 10.568428
+    },
+    {
+        "nummer": "2724",
+        "name": "Massemühle",
+        "lat": 50.859582,
+        "lon": 10.506368
+    },
+    {
+        "nummer": "2722",
+        "name": "Tabarz Fischbacherstraße",
+        "lat": 50.881138,
+        "lon": 10.494702
+    }
+]
