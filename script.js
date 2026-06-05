@@ -38,26 +38,11 @@ function rettungspunktSuchen() {
         ${punkt.lat}, ${punkt.lon}<br><br>
 
         <button class="karten-button"
-            onclick="appleKarten(${punkt.lat}, ${punkt.lon})">
-            📍 Apple Karten öffnen
-        </button>
-
-        <button class="karten-button"
             onclick="googleMaps(${punkt.lat}, ${punkt.lon})">
             🌍 Google Maps öffnen
         </button>
     `;
 }
-
-function appleKarten(lat, lon) {
-        const safeLat = Number(lat);
-        const safeLon = Number(lon);
-    window.open(
-        `https://maps.apple.com/?ll=${safeLat},${safeLon}`,
-        '_blank'
-    );
-}
-
 function googleMaps(lat, lon) {
     window.open(
         `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`,
